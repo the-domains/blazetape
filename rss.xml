@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[blazetape]]></title>
+        <description><![CDATA[blazetape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jul 2016 06:44:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Blaze Tape</p>]]></description>
+            <link>undefinedblaze-tape/index.html</link>
+            <guid isPermaLink="false">0fda0920-97e5-4180-8e57-e6ca69eb4856</guid>
+            <pubDate>Sun, 03 Jul 2016 06:44:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
